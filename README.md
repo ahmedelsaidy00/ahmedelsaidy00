@@ -89,7 +89,7 @@ ahmedelsaidy00@github
   <a href="https://www.linkedin.com/in/ahmed-elsaidy-641554176/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="https://www.facebook.com/ahmed.elsaidy00/"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
    <a href="mailto:ahmedelsaidy00@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-  <a href="wa.link/7tfu0i"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201066541898" target="_blank"><img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff"/></a>
   
 </p>
 <br>
